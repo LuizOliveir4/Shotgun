@@ -51,6 +51,7 @@ namespace Shotgun
             imgRightMoveCase.ImageLocation = fileHandler.PathRightImage(0);
             fileHandler.PlaySoundEffect(0);
             //Nu har jag gjort en ändring som jag vill pusha till servern!
+            //Nu gör jag en ändringe i PBI123 branchen
         }
 
         public void LoadMedia(int playerNumber, int moveCase)
