@@ -50,6 +50,7 @@ namespace Shotgun
             imgLeftMoveCase.ImageLocation = fileHandler.PathLeftImage(0);
             imgRightMoveCase.ImageLocation = fileHandler.PathRightImage(0);
             fileHandler.PlaySoundEffect(0);
+            //Nu har jag gjort en ändring som jag vill pusha till servern!
         }
 
         public void LoadMedia(int playerNumber, int moveCase)
